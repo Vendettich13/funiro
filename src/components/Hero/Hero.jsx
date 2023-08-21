@@ -2,7 +2,6 @@ import card1 from "../../Images/1528 1.jpg";
 import card2 from "../../Images/157dc756f64c0f2e4e93d6fea0c7c23b.jpeg";
 // import card3 from "../../Images/965eb67a69b0e20edcbe632460a2627c.png";
 import { RxDotFilled } from "react-icons/rx";
-import { BsChevronCompactRight } from "react-icons/bs";
 import { MdKeyboardArrowRight } from "react-icons/md";
 import { MdKeyboardArrowLeft } from "react-icons/md";
 import { LiaDotCircleSolid } from "react-icons/lia";
