@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/funiro/static/css/main.e6c13ad2.css",
+    "main.js": "/funiro/static/js/main.5c7b543d.js",
+    "index.html": "/funiro/index.html",
+    "main.e6c13ad2.css.map": "/funiro/static/css/main.e6c13ad2.css.map",
+    "main.5c7b543d.js.map": "/funiro/static/js/main.5c7b543d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5c7b543d.js"
+  ]
+}
