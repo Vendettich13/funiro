@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/funiro/static/css/main.4178500d.css",
-    "main.js": "/funiro/static/js/main.9121843f.js",
+    "main.js": "/funiro/static/js/main.a84c2edd.js",
     "static/media/jpeg": "/funiro/static/media/157dc756f64c0f2e4e93d6fea0c7c23b.15e0f473cfaa24996892.jpeg",
     "static/media/1528 1.jpg": "/funiro/static/media/1528 1.8d9f2e9ea97066c89a4e.jpg",
     "static/media/Tips1.jpg": "/funiro/static/media/Tips1.5548865012274e9e6360.jpg",
@@ -32,10 +32,10 @@
     "static/media/image 8.jpg": "/funiro/static/media/image 8.0467f5823a402f6fdc4c.jpg",
     "index.html": "/funiro/index.html",
     "main.4178500d.css.map": "/funiro/static/css/main.4178500d.css.map",
-    "main.9121843f.js.map": "/funiro/static/js/main.9121843f.js.map"
+    "main.a84c2edd.js.map": "/funiro/static/js/main.a84c2edd.js.map"
   },
   "entrypoints": [
     "static/css/main.4178500d.css",
-    "static/js/main.9121843f.js"
+    "static/js/main.a84c2edd.js"
   ]
 }
